@@ -1,0 +1,9 @@
+[submodule "Flight-Service"]
+	path = Flight-Service
+	url = https://github.com/rishitgupta2003/Flights-Service.git
+[submodule "Flight-Booking-Service"]
+	path = Flight-Booking-Service
+	url = https://github.com/rishitgupta2003/Flight-Booking-System.git
+[submodule "Flight-API-Gateway"]
+	path = Flight-API-Gateway
+	url = https://github.com/rishitgupta2003/Flight-API-Gateway.git
